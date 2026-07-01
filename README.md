@@ -1,1 +1,2 @@
 # nolp
+lower friction directly
